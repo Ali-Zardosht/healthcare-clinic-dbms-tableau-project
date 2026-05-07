@@ -47,6 +47,9 @@ Core entities include:
 - Medications
 - FollowUps
 
+## ER Diagram
+
+![ER Diagram](ERD/ER Diagram.jpeg)
 ---
 
 # Tableau Dashboard Features
@@ -65,6 +68,12 @@ The Tableau dashboard includes:
 ## Patient Compliance Analytics
 - follow-up appointment compliance
 - missed appointment monitoring
+
+## Dashboard Preview
+
+### Final Healthcare Analytics Dashboard
+
+![Healthcare Dashboard](Tableau/Dashboard.jpeg)
 
 ---
 
