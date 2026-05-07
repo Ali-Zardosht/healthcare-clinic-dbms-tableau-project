@@ -87,6 +87,7 @@ Report/           → Final project report
 Screenshots/      → Dashboard and query screenshots
 Tableau/          → Tableau dashboard images
 
-# Author
+---
 
+# Author
 Ali Zardosht
