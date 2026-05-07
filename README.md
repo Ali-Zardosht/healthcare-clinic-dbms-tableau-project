@@ -49,7 +49,8 @@ Core entities include:
 
 ## ER Diagram
 
-![ER Diagram](ERD/ER Diagram.jpeg)
+![ER Diagram](ERD/ERDiagram.jpeg)
+![ER Diagram](ERD/FinalSchema.jpeg)
 ---
 
 # Tableau Dashboard Features
